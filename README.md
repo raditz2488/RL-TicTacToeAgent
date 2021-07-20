@@ -3,3 +3,7 @@ An assignment to demonstrate Reinforced Learnong of an Numerical TicTacToe agent
 In this assignment the agent is the first player i.e. he plays with odd numbers.
 We design a naive environment i.e the other player and also the agent to learn using RL.
 
+## Files:
+1. TCGame_Env.py: The source code for the naive environment i.e. the other player.
+2. TicTacToe_Agent.ipynb: The source code for the agent that learns from the environment.
+
